@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: omnibioai-sdk
+Version: 0.0.1
+Requires-Python: >=3.10
+Requires-Dist: requests
